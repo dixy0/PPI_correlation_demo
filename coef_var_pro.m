@@ -1,6 +1,6 @@
 function y = coef_var_pro(x)
 % Calculate coefficient of variation using Bland and Altman's method (Bland and Altman, 1996).
-% Each row of x represent a subject, and each column of x represent a measurement.
+% Each row of x represents a subject, and each column of x represents a measurement.
 %
 % Bland JM, Altman DG. Statistics Notes: Measurement error proportional to the mean. BMJ 313: 106–106, 1996.
 %
